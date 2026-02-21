@@ -1,5 +1,0 @@
-create test1.txt file 
-
-new era_ new start
-
-
